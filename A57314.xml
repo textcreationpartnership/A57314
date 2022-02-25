@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True Christianity vindicated both in præceding, present, and succeeding ages, and the difference between them who are Christians indeed, and them who are falsly so called manifested : being a collection of the several testimonies of the antient writers of the doctrine, lives and manners of the primitive Christians many ages ago, which being found coherent with the doctrine, lives and manners of the true Christians, who are nick named Quakers at this day, are therefore made publick / by Ambros Rigge.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57314</idno>
+            <idno type="STC">Wing R1498</idno>
+            <idno type="STC">ESTC R17008</idno>
+            <idno type="EEBO-CITATION">12599562</idno>
+            <idno type="OCLC">ocm 12599562</idno>
+            <idno type="VID">64131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 675:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True Christianity vindicated both in præceding, present, and succeeding ages, and the difference between them who are Christians indeed, and them who are falsly so called manifested : being a collection of the several testimonies of the antient writers of the doctrine, lives and manners of the primitive Christians many ages ago, which being found coherent with the doctrine, lives and manners of the true Christians, who are nick named Quakers at this day, are therefore made publick / by Ambros Rigge.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Church history --  Primitive and early church, ca. 30-600.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64131:1"/>
+            <pb facs="tcp:64131:1" rendition="simple:additions"/>
+            <p>True Chriſtianity VINDICATED, BOTH IN Praeceding, Preſent, and Succeeding AGES, And the Difference between them who are <hi>Chriſtians</hi> indeed, and them who are falſly ſo called MANIFESTED.</p>
+            <p>Being a Collection of the ſeveral Teſtimonies of the Antient Writers of the DOCTRINE, LIVES and MANNERS of the Primitive <hi>Chriſtians</hi> ma<g ref="char:EOLhyphen"/>ny Ages ago, which being found Coherent with the Doctrine, Lives and Manners of the true CHRISTIANS, who are nick named QUA<g ref="char:EOLhyphen"/>KERS at this day, are therefore made publick.</p>
+            <p>By <hi>Ambros Rigge.</hi>
+            </p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:64131:2"/>
+               <pb n="3" facs="tcp:64131:2" rendition="simple:additions"/>
+               <head>True <hi>Chriſtianity</hi> Vindicated, both in Praeceding, Preſent and Succeeding Ages; and the Difference between them who are <hi>Chriſtians</hi> indeed, and them who are falſly ſo called, Mani<g ref="char:EOLhyphen"/>feſted, &amp;c.</head>
+               <p>
+                  <hi>CHriſtianity in its Primitive Luſtre and Antient Glory</hi> de<g ref="char:EOLhyphen"/>riv'd this honourable Title, from the In-dwelling of the Life and Power of Righteouſneſs, in Male and Female, who lived in and followed Chriſt in the <hi>ſtrait Way</hi> of Self deny<g ref="char:EOLhyphen"/>al, through many Tribulations and Reproaches from the <hi>Gentiles</hi> or <hi>Heathens,</hi> among whom they lived and ſhined as Lights in the Darkneſs of Degeneration, which then Ruled in the World, whereby they ſuffered the loſs of all things; and through Faith obtained a good Report and Victory over Death and the Power of the Grave, and were Living Monuments of the Mercy, Goodneſs and Righteouſneſs of God: Their Chaſte Converſa<g ref="char:EOLhyphen"/>tion through the whole Courſe and Progreſs of their Lives wit<g ref="char:EOLhyphen"/>neſſed that they ſought a City, whoſe Builder and Maker was God.</p>
+               <p>The Glory and Excellency of the Anticut <hi>Chriſtians</hi> conſiſted not in the bare Name and Title of <hi>Chriſtianity,</hi> but in the Ma<g ref="char:EOLhyphen"/>niſeſtation of Piety and Righteouſneſs in all their Actions; nay, they teſtified, That if any among them lived not according to the Diſcipline of the Goſpel, they admitted them not the Name of <hi>Chriſtians.</hi>For ſaith <hi>Clemens</hi> of <hi>Alexandria,</hi>
+                  <note place="margin">Admon. ad. Gent. <hi>p.</hi> 76.</note> 
+                  <q>No Man is with us accounted a Chriſtian, or truly Rich, Temporate and Generous, but he
+<pb n="4" facs="tcp:64131:3"/>
+that is Pious and Religious; nor does any further bear the Image of God than he ſpeaks and believes what is juſt and ho<g ref="char:EOLhyphen"/>ly. So that in ſhort, this is the ſtate of us, who follow God, ſuch as are our Deſires, ſuch are our Diſcourſes; ſuch as are our Diſcourſes, ſuch are our Actions; ſuch as are our Actions, ſuch is our Life: Certainly none were ever greater Enemies to a naked Profeſſion, and the covering of a bad Life under the Title of <hi>Chriſtianity.</hi>
+                  </q>
+               </p>
+               <p>Saith he, <q>Do any live otherwiſe than Chriſt hath command<g ref="char:EOLhyphen"/>ed? 'Tis a moſt certain Argument they are no <hi>Chriſtians,</hi> though with their Tongues they never ſo ſmooth<g ref="char:EOLhyphen"/>ly<note place="margin">
+                        <hi>Ap. 2. pag.</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3.</note> profeſs the <hi>Chriſtian</hi> Doctrine; for it is not a meer Profeſſion, but thoſe who live according to the <hi>Chriſtian</hi> Doctrine that ſhall be ſaved;</q> as <hi>Juſtin Martyr</hi> declared before the Emperor.</p>
+               <p>
+                  <q>Let no man (ſays <hi>Brazill</hi>) impoſe upon him<g ref="char:EOLhyphen"/>ſelf<note place="margin">Comment in ca 1. Eſa. to ca. 2. pag. 28.</note> with inconſiderate words, ſaying, Though I be a Sinner, yet I am a <hi>Chriſtian,</hi> &amp;c. But hearken Sinner, all Wicked men ſhall be bundled together, and in the Great Day of Divine Venge<g ref="char:EOLhyphen"/>ance ſhall be indifferently caſt into thoſe Mercileſs and Devou<g ref="char:EOLhyphen"/>ring Flames.</q>
+               </p>
+               <p>Now you who ſo call your ſelves, and would have others ſo account of you, meaſure your Ways, Lives and Actions, Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline, with the Ways, Lives, Actions, Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline of the Antient <hi>Chriſtians,</hi> whom your Prieſts cry up as Fathers of your Church; and ſee how far th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y dif<g ref="char:EOLhyphen"/>fer from you, who though you live quite contrary to the Diſ<g ref="char:EOLhyphen"/>cipline of the Goſpel, as your Fruits daily manifeſt, yet would aſſume to your ſelves the honourable Title of <hi>Chriſtians.</hi>
+               </p>
+               <p>
+                  <q>Nay, the Antient <hi>Chriſtians</hi> ſtood at a wide diſtance from any thing (though Lawful in it ſelf that ſeemed to carry an ill colour with it, as frequenting of publique<note place="margin">Lib. 7. pag. 375.</note> Bathes, or going to Sights or Show, becauſe they ſeem'd to owe their Original to Idolatry, and were the occaſion of many groſs Enormiti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s This <hi>Origin</hi>
+                  </q> tells <hi>Celſus.</hi>
+               </p>
+               <p>
+                  <pb n="5" facs="tcp:64131:3"/>And ſpeaking of thoſe who only took ſanctuary at the Name <hi>Chriſtian;</hi> he adds, <q>That thoſe who lived not according to the Laws of Chriſt, but were only called by the Name of <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> he begged of the Emperor that they might be puniſhed.</q>
+               </p>
+               <p>Oh! where is this Spirit that cannot take Sanctuary at the bare Title of a <hi>Chriſtian,</hi> nor cannot go to publique Bathes, Sights or Shows; but leads all who are guided with it to delight in the Law of God, and to live according to the Diſcipline of the Goſpel; Is this found among the Nominal <hi>Chriſtians</hi> at this day? I believe nothing leſs.</p>
+               <p>
+                  <hi>Athenagorus</hi> told the Emperor, <q>That no <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi>
+                     <note place="margin">Leg. pro. Chriſt. p. 4.</note> could be a Bad Man, except he were a Hy<g ref="char:EOLhyphen"/>pocrite.</q>
+               </p>
+               <p>And <hi>Tertullian</hi> openly declares, <q>That when<note place="margin">Ap. ca. 46. pag. 36.</note> men departed from the Diſcipline of the Goſpel, they ſo far ceaſe amongſt us to be accounted <hi>Chri<g ref="char:EOLhyphen"/>ſtians.</hi>
+                  </q>
+               </p>
+               <p>Now with the true Light of Chriſt Jeſus meaſure your ſelves, all you who are departed from the Diſcipline of the Goſpel, whether you deſerve the Name of <hi>Chriſtians</hi> or not: Oh! what good will it do you in the Day of Account to have a name to live, and be found dead in Treſpaſſes and Sins! There<g ref="char:EOLhyphen"/>fore be awakened to Righteouſneſs, and ſhake off your Night-Garments, which are patch't together of Figg leaves; the Lord of the Vineyard is come and coming, who looks for Fruit, yea, good Fruit; but all who are found Barren of, ſhall be hewn down and caſt into the Fire.</p>
+               <p>
+                  <hi>Tertullian</hi> tell us, <q>'Twas the common Ac<g ref="char:EOLhyphen"/>cuſation<note place="margin">Ap. c. 3. p. 4. Ad. Demit. pag. 200.</note> the <hi>Heathen</hi> of thoſe Times had in their Mouthes, Such, or ſuch a one is a good man, only he is a <hi>Chriſtian;</hi> or, I wonder at ſuch a one, a wiſe man, but lately turn'd a <hi>Chriſtian.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Minutius Flaeix</hi> ſaid to the <hi>Heathen,</hi> 
+                  <q>Should we <hi>Chriſtians</hi> be compared with you? although our Diſcipline may ſeem ſome what inferior, yet we ſhould be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound infinitely to tranſ<g ref="char:EOLhyphen"/>cend you; you forbid Abultery and then practice it, we keep intirely to our own Wives; you puniſh Wickedneſs whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:64131:4"/>
+committed, to us, even a Wicked Thought is Sin; you ſtand in awe of thoſe who are Conſcious of your Crimes, we of nothing but our Conſciences, without which we cannot be? And <hi>Laſtly,</hi> It is with your party the Priſons are filled and crowded; no <hi>Chriſtian</hi> is there, unleſs it is ſuchas is either a ſhame to his Profeſſion, or an Apoſtate from it.</q>
+               </p>
+               <p>Here alſo let <hi>Chriſtendom</hi> take a ſurvey of their Wayes and Actions: Is it not a common Accuſation, Such and ſuch a one is a good man, only he's turn'd a <hi>Quaker,</hi> or I wonder at ſuch a one, a wiſe man, but lately turn'd a <hi>Quaker?</hi> not conſidering that true <hi>Chriſtianity</hi> conſiſteth not in Names and Titles, but in Life and Righteouſneſs; for the Name <hi>Chriſtian</hi> was as Re<g ref="char:EOLhyphen"/>proachfully given in thoſe days, as the Name <hi>Quaker</hi> can be in our day.</p>
+               <p>And do not many of the titular <hi>Chriſtians</hi> now forbid Adul<g ref="char:EOLhyphen"/>tery and then practiſe it? but the true <hi>Chriſtians</hi> keep intirely to their own Wives. You puniſh Wickedneſs when commit<g ref="char:EOLhyphen"/>ted; to us even a Wicked Thought is Sin, which nothing ſhort of the true Light of Chriſt in our Conſciences can demonſtrate and manifeſt to us. You are afraid of them who are Con<g ref="char:EOLhyphen"/>ſcious of your Crimes; we fear God, reſpecting his Witneſs in our Conſciences.</p>
+               <p>And <hi>Laſtly,</hi> It is with your Party the Priſons are filled and crowded, no true <hi>Quaker</hi> is there, except it be for the Teſti<g ref="char:EOLhyphen"/>mony of a good Conſcience, or elſe ſuch who are either a ſhame to their Profeſſion, or an Apoſtate from it.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the true <hi>Chriſtians Teſtimony</hi> againſt <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> both <hi>Antient</hi> and <hi>Modern.</hi>
+               </head>
+               <p>THe True, Antient and Primitive <hi>Chriſtians</hi> fully Manifeſted their Deteſtation of Idolarty, and teſtified againſt all Idols and Image Makers whatſoever; nay, they looked upon
+<pb n="7" facs="tcp:64131:4"/>
+the very making of Idols (though with no Intention to Wor<g ref="char:EOLhyphen"/>ſhip them) an unlawful Trade, and inconſiſtent with <hi>Chriſti<g ref="char:EOLhyphen"/>anity.</hi>
+               </p>
+               <p>
+                  <q>How have we Renounced the Devil and his Angels, ſayes <hi>Tertullian,</hi> if we make Idols; nor is it enough to<note place="margin">De. Idolat. ca. 6. p. 88.</note> ſay, though I make them, I do not Worſhip them, there being the ſame cauſe not to make them, as there is not to Worſhip them (<hi>i. e.</hi>) the Offence that in both is done to God; yet thou doſt ſo far worſhip them, that thou makes them that others may worſhip them.</q>
+               </p>
+               <p>And therefore he fully Pronounces, <q>That no Art,<note place="margin">C. 11. p. 92. Vide. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a. 9, 10.</note> nor Profeſſion, nor Service whatſoever, that is imployed, either in making or miniſtring to Idols can come ſhort of Idolatry.</q>
+               </p>
+               <p>
+                  <q>Nay, every Maſter of a Family was command<g ref="char:EOLhyphen"/>ed<note place="margin">Ca. 41. pag. 57.</note> to keep no little Idols nor Images in his Houſe. &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Origin</hi> tells his Adverſary, <q>That the Images that were to be dedicated to God were not to be canv'd by the hands of Artiſts, but to be framed and faſhioned in us by the Word of God (<hi>viz.</hi>) the Vertues of Juſtice and Temperance, of Wiſdom and Piety, &amp;c. that conform us to Image of his own Son: thoſe, ſays he, are the only Statues formed in our Minds, and by which alone we are perſwaded 'tis fit to do Honour to him, who is the Image of the Inviſible God.</q>
+               </p>
+               <p>Hearken to this all ye Image-Makers, and Image-Worſhip<g ref="char:EOLhyphen"/>pers, throughout <hi>Chriſtendom,</hi> who profeſs the <hi>Chriſtian-Faith</hi> and <hi>Worſhip;</hi> Did not you in your Baptiſm in words, <hi>Renounce the Devil and all his Works, the Pomps and Vanities of the World, and all the ſinful Luſts of the Fleſh; and engage to keep Gods holy Will and Commandments, and walk in the ſame all your days?</hi> And you ask, <hi>Why Infants are Baptized when (by reaſon of their tender Age) they cannot perform this? Yes</hi> (you ſay) <hi>they do per<g ref="char:EOLhyphen"/>form it by their Sureties, which when they come to Age themſelves, they are bound to perform.</hi>
+               </p>
+               <p>Oh! Wonderful large Promiſes indeed! But if we inſpect the performance among the now Nominal <hi>Chriſtians,</hi> we ſhall
+<pb n="8" facs="tcp:64131:5"/>
+find not only their daily practice contradicting their Promiſe and Vow, but their belief alſo, that they cannot keep God's holy Will nor Commandments all nor one day in all their Lives; &amp; ſo according to their Faith it is unto them: But the true Apo<g ref="char:EOLhyphen"/>ſtolical and Spiritual <hi>Chriſtians,</hi> in ſcorn call'd <hi>Quakers,</hi> who keep his Commandments, as he ſaid in the dayes of <hi>John,</hi> 1 John 5. 2, 3. <hi>and his Commandments are not grievous, but joyous.</hi> Theſe now believe with <hi>Origin,</hi> that the Images that are to be dedi<g ref="char:EOLhyphen"/>cated to God, are not to be carv'd by the hands of Artiſts, but to be formed and faſhioned in them by the Word of God, the Vertues of Juſtice and Temperance, of Wiſdom and Piety; theſe are the only Statutes they believe are to be formed in their Minds, by which alone they are perſwaded 'tis fit to do honour to him, who is the Image of the Inviſible God. Theſe are of old <hi>Tertullians</hi> Mind, that the making as well as worſhipping of Ima<g ref="char:EOLhyphen"/>ges is inconſiſtent with <hi>Chriſtianity,</hi> and an offence againſt God.</p>
+               <p>The Council of <hi>Illiberis</hi> that was held in <hi>Spain</hi> before <hi>Conſtan<g ref="char:EOLunhyphen"/>tine,</hi> decreed expreſly, that <hi>No Pictures ought to be in Churches, nor any thing that is worſhipped or adored ought to be painted upon the Walls.</hi>
+               </p>
+               <p>Now you who call your ſelves <hi>Proteſtant Chriſtians,</hi> are you of this mind? nay, doth not your daily practice demonſtrate the quite contrary? How many Images are painted upon your Walls? How many Image<g ref="char:punc">▪</g> makers are there within your Cities and Countries, which draws your Eyes, Minds and Hearts from the true Spiritual Worſhip of the inviſible God, who is an Eternal Spirit of Life, Light and Glory, and dwells not in Tem<g ref="char:EOLhyphen"/>ples made by the Hands of your cunning Carvers and Picture<g ref="char:EOLhyphen"/>drawers, of Likeneſſes of things in Heaven, and things in Earth, contrary to Gods command? <hi>Exod.</hi> 20.</p>
+               <p>And Oh! how far are you departed from the Image of God, which is Righteouſneſs and Holineſs, and run into Whoredom, Adultery, Idolatry and Uncleanneſs; and ſo are the perfect Em<g ref="char:EOLhyphen"/>blem's of the <hi>Heathen Gentiles</hi> in your Practices, while you are with your Mouthes profeſſing <hi>Chriſtianity?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:64131:5"/>
+               <head>Concerning the Freedom of the true <hi>Chriſtians</hi> from Covetouſneſs, both Antient and Modern.</head>
+               <p>
+                  <hi>I<g ref="char:V">Ʋ</g>ſtin Martyr</hi> diſcourſing with <hi>Tripho</hi> the <hi>Jew,</hi> tells him, <q>That they were careful with all fear, to Converſe with men according to the Scripture; not greedily deſiring to Gain Riches or Glory, or Pleaſure to themſelves, concerning any of which no man could lay any thing to their charge: and that they lived not like the great Men of his People, of whom God himſelf had left this reproachfull Character, That their Princes were Companions of Thieves, every one loving Gifts and fol<g ref="char:EOLhyphen"/>lowing after Rewards.</q>
+               </p>
+               <p>When <hi>Agbarus</hi> the <hi>Toparch</hi> of <hi>Edeſſa</hi> offered <hi>Thaddeus,</hi> one of the ſeventy Diſciples, great ſums of Gold and Silver for the pains he had taken, and the great things he had done amongſt them, he refuſed them with this anſwer, <q>To what purpoſe ſhould we receive good things from others, who have freely forſaken and renounced our own.</q>
+               </p>
+               <p>Hearken to this ye greedy Hirelings of all ſorts, are you not quite contrary in Life and Practice to theſe antient <hi>Chriſtians?</hi> and like <hi>Iſraels</hi> falſe Prophets, every one ſeeking his own way, every one for his Gain from his Quarter.</p>
+               <p>And thoſe who will not feed you with Gifts and Rewards, you prepare War againſt them to the uttermoſt of your power, even to deſtroy them from the Earth, as hath been manifeſt to the view of thouſands in this our Age, whoſe covetous Practices have ma<g ref="char:EOLhyphen"/>nifeſted you to all (who have not willingly cloſed their Eyes) to be gone in the way of <hi>Cain,</hi> and after the Error of <hi>Balaam,</hi> nay worſe; for <hi>Balaam,</hi> who though he loved the Wages of Un<g ref="char:EOLhyphen"/>righteouſneſs, he durſt not take it; but you are bold enough to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue for and take three times the value from them who will not give it you. But the true Goſpel-Miniſters then, as at this day, covet no mans Gold, Silver or Apparel, but receive
+<pb n="10" facs="tcp:64131:6"/>
+freely and ſo give, labouring with their Hands Night and Day that the Goſpel may be without Charge.</p>
+            </div>
+            <div type="part">
+               <head>Of their Heavenly-Mindedneſs, and Contempt of the World.</head>
+               <p>THe antient <hi>Chriſtians</hi> did not ſtudy thoſe arts of Splendor and Gallentry, as now the Titular <hi>Chriſtians</hi> are over<g ref="char:EOLhyphen"/>run withal, as ſtately Pallaces, coſtly Furniture, rich Hang<g ref="char:EOLhyphen"/>ings, fine Tables, curious Beds, Veſſels of Gold and Silver, the very Poſſeſſion of which, as <hi>Clemens, Alexandrinus</hi> ſpeaks, <hi>Creates Envy,</hi> 
+                  <q>Will not a Knife, ſaith he, cut as well, though it have not an Ivory Haft, or be not garniſhed with Silver? or an Earthen Baſon ſerve to waſh the Hands? Will not the Table hold our Proviſions, unleſs its Feet be made of Ivory? or the Lamp give Light, although made by the Potter, as well as if it were the work of the Gold-Smith? May not a man ſleep as well upon a mean Couch, as upon a Purple <hi>Venetian</hi> Carpet? Our Lord eat his Meat out of a common Diſh, and made his followers ſit upon the Graſs, and waſhed his Diſciples Feet, without ever fetching down a Silver Bowle from Heaven: he took the Water which the <hi>Samaritanneſs</hi> had drawn in an Ear<g ref="char:EOLhyphen"/>then Pitcher, not requiring one of Gold, ſhewing how eaſie it was to quench his thirſt; for he reſpected the Uſe, not the Vain and Superfluous ſtate of things.</q>
+               </p>
+               <p>Give Ear to this you pretended <hi>Chriſtians</hi> of all ſorts; has not the Fineneſs and Gallentry of the <hi>Gentiles</hi> over-run you? Has not the Luſt of the Eye, and of the Fleſh, and the Pride of Life compaſſed you on every ſide, till there is no room for Plainneſs and Simplicity to enter amongſt you? you drink your Wine in Bowles, and Chant at the ſound of the Viol, but you conſider not the affliction of <hi>Joſeph;</hi> your Vine is the Vine of <hi>Sodom,</hi> and your Fruit the Fruit of <hi>Gomorrah:</hi> God give you Repentance unto Life, if you have not ſinned out your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay.</p>
+               <p>
+                  <pb n="11" facs="tcp:64131:6"/>The <hi>Primitive Chriſtians</hi> were not more ſtudious<note place="margin">
+                     <hi>Min. Foel. pa. 10. Con<g ref="char:EOLhyphen"/>ſiſt. Apoſte. lib. 2 ca. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2. pa.</hi> 886.</note> of Pleaſures and Recreations abroad, then they were of Fineneſs and Bravery at home; they went not to publick Feaſts, nor frequented the Shows which were made for Diſport and entertainment of the People.</p>
+               <p>The <hi>Heathen</hi> charged it upon them as part of their Crime; obſerve how he in <hi>Minis. Foelix</hi> draws it up. <q>The <hi>Romans</hi> (ſayes he) govern and enjoy the World, while you in the mean time are Careful and Mopiſh, abſtaining even from lawful Plea<g ref="char:EOLhyphen"/>ſures; you viſit not the Shows, nor are preſent at the Pomps, you abhor the Holy Games, the Sacrificial Meats and Drinks, Crown not your Heads with Garlands, nor purfume your Bo<g ref="char:EOLhyphen"/>dies with ſweet Odours, a ghaſtly, fearful and miſerable People.</q>
+               </p>
+               <p>And when <hi>Octavius</hi> the <hi>Chriſtian</hi> comes to anſwer, he grants it all to be true, and tells him, <q>That there was very good rea<g ref="char:EOLhyphen"/>ſon why they ſhould abſtain from their Sights and Shows, Pomps and Divertiſments, at which they could not be preſent without great Sin and Shame, without affronting their Mode<g ref="char:EOLhyphen"/>ſty, and offering diſtaſte and horror to their minds, and indeed they reckon'd themſelves perticularly obliged to this, by what they had vowed and undertaken at their Baptiſm, when they ſolemnly ingag'd to Renounce the Devil and all his<note place="margin">
+                        <hi>Catich. Myſt. p.</hi> 510.</note> Works, Pomps and Pleaſures (i. e.) ſayes <hi>Cyril,</hi> the Sights and Sports of the <hi>Theatre</hi> and ſuch like Vanities.</q>
+               </p>
+               <p>The Truth is, they look't upon the publick Sports and Paſ<g ref="char:EOLhyphen"/>times of thoſe dayes, as the Scenes not only of Folly and Lewd<g ref="char:EOLhyphen"/>neſs, but of great Impiety and Idolatry, as places where the Devil eminently ruled and reckoned all his Votaries that came thither.</p>
+               <p>Accordingly, <hi>Tertullian</hi> tells us of a <hi>Chriſtian</hi>
+                  <note place="margin">
+                     <hi>de Spect ca. 26. pa.</hi> 83.</note> Woman, <q>Who going to the <hi>Theatre,</hi> was there poſſeſſed by the Devil, and when the evil Spirit at his caſting out was asked, how he durſt ſet upon a <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> he preſently anſwered, I did but what was fit and juſt, for I found her upon my own Ground.</q>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:64131:7"/>Draw near, and give Ear ye pretended <hi>Chriſtians;</hi> who is it now that refrains from your wicked Sights &amp; Shows? and cannot go with you to your <hi>Theatres,</hi> nor adorn their Heads with Gar<g ref="char:EOLhyphen"/>lands, nor perfume their Bodies with ſweet Odours, whom you like your Anceſtors (the Heathen <hi>Gentiles</hi>) call now a ghaſtly, fearful and miſerable people. Are you not directly in the Steps of them who nouriſhed their Hearts as in a day of Slaugh<g ref="char:EOLhyphen"/>ter, and ſate down to eat and drink, and roſe up to play, living wantonly, and in Pleaſures upon the Earth, as they did whom God deſtroyed? you have had a long time of Laughter and Mirth, but a Day of Sorrow and Mourning is at hand, ready to break in at your Doors: Oh! therefore Repent, and put on Sackcloth inſtead of your Gold and Silver tinkling Ornaments, and ſit down in Aſhes; for God is Angry with you, and his Bow is bent againſt you, and his Arrows are ready, ſome of which you have had already; but the moſt terrible Ones are yet behind.</p>
+               <p>Oh! that you knew in this your Day the things which con<g ref="char:EOLhyphen"/>cern your Peace. Mourn, Mourn, you careleſs Daughters, who walk with ſtretched out Necks and wanton Eyes, the Lord will ſtain your Glory, and turn it into Contempt, unleſs you Repent with ſpeed.</p>
+               <p>The antient <hi>Chriſtians</hi> could willingly part with<note place="margin">
+                     <hi>Athen. Leg. pro. Chriſt. pa.</hi> 2.</note> any thing that was dear unto them, Friends, E<g ref="char:EOLhyphen"/>ſtate, Liberty or Life it ſelf. <q>We are not mo<g ref="char:EOLhyphen"/>ved, ſayes one of their Apollogiſts, with the loſs of our Eſtates, which our Enemies wreſt from us, nor with the violence which is offered to our Credit and Reputation, nay we cannot only when beaten, refrain from ſtriking again, and make no reſiſtance againſt them that invade and ſpoil us, but to them that ſmite one Cheek, we can return the other, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Juſtin Martyr</hi> ſays, <q>The <hi>Chriſtians</hi> dwell in their own Coun<g ref="char:EOLhyphen"/>try but as Inmates and Forraigners; they have all things com<g ref="char:EOLhyphen"/>mon with other men as fellow Citizens, and yet ſuffer all things as Strangers and Forreigners; every forreign Region is their Country, and every Country is forraign to them; they Marry like other men and beget Children, but do not expoſe or neg<g ref="char:EOLhyphen"/>lect
+<pb n="13" facs="tcp:64131:7"/>
+their Off-ſpring; they feaſt in common, but not exceed like other men; they are in the Fleſh, but do not live after the Fleſh; they dwell upon the Earth, but their Converſation is in Heaven.</q>
+               </p>
+               <p>Learn theſe things ye Profeſſors of <hi>Chriſtianity,</hi> and do not think to ſay within your ſelves, <hi>We have</hi> Abraham <hi>to our Father;</hi> for if you were of <hi>Abraham,</hi> you would do the Works of <hi>A<g ref="char:EOLhyphen"/>braham;</hi> and if you poſſeſſed the true Faith, the Works there<g ref="char:EOLhyphen"/>of would manifeſt themſelves in you, as they did in the antient <hi>Chriſtians,</hi> who through Faith obtained an immortal Crown, but walked as Strangers and Pilgrims in the Earth, ſuffering patient<g ref="char:EOLhyphen"/>ly the loſs of all things dear unto them in this Life, with great freedom and joy, having only reſpect to the Recompence of Re<g ref="char:EOLhyphen"/>ward laid up for them.</p>
+               <p>When <hi>Quintianus</hi> the Preſident under <hi>Decius</hi> the Emperor asked <hi>Agatha</hi> the Virgin Martyr, <q>Why? being deſcended of ſuch rich illuſtrous Parents, ſhe would ſtoop to ſuch low and mean Offices as ſhe took upon her, ſhe preſently anſwered him, Our Glory and Nobillity lies in that we are the Servants of Chriſt.</q>
+               </p>
+               <p>To the ſame purpoſe was the anſwer of <hi>Quintianus</hi> the Mar<g ref="char:EOLhyphen"/>tyr under the <hi>Diocleſian</hi> Perſecution, when the Preſident asked him, <q>How it came about that he being a <hi>Roman</hi> Citizen, and the Son of a <hi>Senator</hi> would trucle under ſuch a Superſtition, &amp; Worſhip him for a God whom the <hi>Jews</hi> had Crucified? The Martyr told him, That it was the higheſt Honour and Nobili<g ref="char:EOLhyphen"/>ty to know and ſerve God, and that the <hi>Chriſtian</hi> Religion, which he called Superſtition, ought not to be traduced with ſo baſe a Name, ſeeing it immediately guided its followers to the higheſt degree of Happineſs.</q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:64131:8"/>
+               <head>There are three things, as the Son of <hi>Syrach</hi> well ob<g ref="char:EOLhyphen"/>ſerves, which ſhew a Man what he is, <hi>viz.</hi> his <hi>Attire, Exceſſive Laughter,</hi> and his <hi>Gate;</hi> there is not cer<g ref="char:EOLhyphen"/>tainly more open Evidence of a vain Mind than a vain Garb and Habit.</head>
+               <p>SAint <hi>Bazil</hi> Diſcourſing what Habit beſt be<g ref="char:EOLhyphen"/>comes<note place="margin">
+                     <hi>Rig. fuſ. diſput. in<g ref="char:EOLhyphen"/>terrog. 22. pag. 566. tom.</hi> 2.</note> a <hi>Chriſtian,</hi> tells us, <q>That it ought to be ſuch as moſt lively expreſſeth the Meekneſs and Humility of the Mind, that good men of old were ſo attired, and that having Food and Ray<g ref="char:EOLhyphen"/>ment we ought there-with to be content.</q>
+               </p>
+               <p>
+                  <q>'Tis not enough, ſaith <hi>Tertullian,</hi> that a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi>
+                     <note place="margin">
+                        <hi>De. cult. famin. Lib. 2. ca 13. pag.</hi> 160.</note> be Chaſte and Modeſt, but he muſt appear to be ſo, a vertue, of which he ſhould have ſuch great ſtore and treaſure, that it ought to flow from his Mind upon his Habit, &amp; break forth from the retirements of his Conſcience into the Supefecies of his life.</q>
+               </p>
+               <p>St. <hi>Bazill</hi> tells us, <q>The Habit of a <hi>Chriſtian</hi> ought to be ſutable to the two great ends of Clothing, in<g ref="char:EOLhyphen"/>ſtituted<note place="margin">
+                        <hi>Ibid. pag.</hi> 567.</note> of God (<hi>viz.</hi>) Honeſty and Neceſſity, and that we ought to remember, that our Cloaths are Moniters of our Apoſtacy, and that there's little reaſon we ſhould pride our ſelves in that which is only a cove<g ref="char:EOLhyphen"/>ring for our ſhame.</q>
+               </p>
+               <p>Neceſſity, and ſo Cloaths were deſigned to keep the Body in convenient Warmth, and to defend it from thoſe Injuries and Ex<g ref="char:EOLhyphen"/>treamities, which otherwiſe would ſoon rot down this Houſe of Clay; Are theſe two ends only anſwered by you, who now claim the Name and Title of <hi>Chriſtians?</hi> Or do you not rather ſeem to regard neither, but give your ſelves over to Ex<g ref="char:EOLhyphen"/>ceſs and Superfluity, and the vain Garbs and Faſhions of the World, which is an open evidence of a vain Mind?</p>
+               <p>
+                  <pb n="15" facs="tcp:64131:8"/>
+                  <q>The Garments that we ſhould wear (ſaith<note place="margin">
+                        <hi>Ib. ubi. ſupr. pag.</hi> 244.</note> 
+                     <hi>Clemens of Alexandria</hi>) ought to be mean and frugal, not curiouſly wrought with divers colours, the Emblem of Craftineſs and Deceit; but <hi>White,</hi> to denote our embracing of Innocency and Truth; and that's true Sim<g ref="char:EOLhyphen"/>plicity of Habit, that takes away what's Vain and Superfluous; and that is the beſt and moſt ſolid Garment, which is furtheſt from Art and Curioſity, and moſt apt to preſerve and keep warm the Body.</q>
+               </p>
+               <p>
+                  <hi>Chryſoſtom</hi> among other things, eſpecially com<g ref="char:EOLhyphen"/>mends<note place="margin">Olimp. 2. tom. 4. 617. <hi>and</hi> 623.</note> 
+                  <hi>Olimpias,</hi> 
+                  <q>A Woman of great Birth and E<g ref="char:EOLhyphen"/>ſtate, and of no leſs Piety for the incredible mo<g ref="char:EOLhyphen"/>deſty and meanneſ, of her Attire, not much better than that of the pooreſt Beggar; having nothing in her Garb or Gate that was Feigned or Gaudy; nothing Eleborate or Artificial.</q>
+               </p>
+               <p>So far were they then from the Vanity and Affections of Pomp and Bravery, of dazling the Eye with Rich and Coſtly Ornaments, that they thought they could never ſeem mean enough.</p>
+               <p>
+                  <hi>Tertullian</hi> doth ſarcaſtically deſcribe, <q>A great<note place="margin">
+                        <hi>De cult. foem. Lib. 1. ca 8. p.</hi> 153.</note> Eſtate (ſays he) is drawn out of a little Pocket, and many thouſand Pounds may be ſpent upon one ſtring of Pearls; a weak and tender Neck can make ſhift to carry about whole Woods and Lordſhips, vaſt ſums of Money borrowed of the Banker, and noted in his Account-Book to be repayed every Moneth with Intereſt, are weighed at the beam of a thin ſlender Ear.</q>
+               </p>
+               <p>
+                  <hi>Clemens Alexandrinus</hi> cenſures it very deep, <q>That though Gluttonny and Intemperance be great Vices, yet not to be com<g ref="char:EOLhyphen"/>pared with a nice overcurious ſtudy of fineneſs and bravery.</q>
+               </p>
+               <p>Saith he, <q>A well-furniſh't Table and Cups that go round may quickly ſtop the Mouth of a Hungry Stomach; but where is a nice Affectation of bravery, of Gold Purple or Jewells there, not the Treaſures of the Creation, not what's above or under ground, not the Spoils of the <hi>Tyrian</hi> Sea, nor the Fraughts from <hi>India</hi> or <hi>Aethiopia;</hi> No, nor <hi>Pactolus</hi> with his Golden Streams will ſuffice.</q>
+               </p>
+               <p>
+                  <pb n="16" facs="tcp:64131:9"/>And alſo that which the Antients of thoſe times did moſt ſe<g ref="char:EOLhyphen"/>verly cenſure, and cry out againſt, was not only the Expence and Coſtlineſs of their Cloaths, but the Arts which they uſed to add greater Beauty and Handſomneſs to themſelves than God and Nature had beſtowed upon them. This, it ſeems, the Pride &amp; Folly of ſome <hi>Chriſtian.</hi> Women of thoſe days were got into, which the Zeal and Piety of thoſe Times vehemently con<g ref="char:EOLhyphen"/>demn and proteſt againſt: Some of the Gallants of thoſe times pleaded, That they were Rich and had great Eſtates, and ought therefore to live like themſelves, and to make uſe of the Eſtates that God had given them, &amp;c.</p>
+               <p>To this <hi>Cyprian</hi> anſwers, <q>That they only are<note place="margin">
+                        <hi>De Decip. &amp; Habit. virgin. pag.</hi> 164.</note> truly Rich that are Rich in and towards God; and that the World ought to be deſpis'd with the Pomps and Delights thereof, which we then re<g ref="char:EOLhyphen"/>nounced, when we happily turned to God, with the Love of whom all that is in the World, the Luſt of the Fleſh, the Luſt of the Eye, and the Pride of Life is not con<g ref="char:EOLhyphen"/>ſiſtent. That the uſe of Riches in this caſe is to be governed by juſt and moderate meaſures. The Apoſtle commands all Wo<g ref="char:EOLhyphen"/>men, how Rich ſoever, <hi>To Adorn themſelves in modeſt Ap<g ref="char:EOLhyphen"/>parel, with Shame facedneſs and Sobriety; not with Breidered Hair, or Gold, or Pearls, or coſtly Array, but that which beco<g ref="char:EOLhyphen"/>meth Women profeſſing Godlineſs, with Good Works.</hi> St. <hi>Peter</hi> alſo requires of them <hi>not the outward Adorning of Gold, or ſine Apparel; but the hidden ornament of the Heart,</hi> &amp;c. And if they thought themſelves Bound to uſe the Eſtates God had given them, God had ſhewed them a more Execellent way, to relieve the Hungary, and ſeed the poor Members of Chriſt; and that was the beſt art of improving Riches, and the way to lay them up in ſafe and unſailing Treaſures, where we may be ſure to reap the Fruit of them another day, and not to throw them away upon Arts of bravery, and upon vain and Phan<g ref="char:EOLhyphen"/>taſtick Dreſſes.</q>
+               </p>
+               <p>Sometimes they pleaded, <hi>That they might Beautifie and Ho<g ref="char:EOLhyphen"/>nour the Body without any danger of violating their Chaſtity, or ſet<g ref="char:EOLhyphen"/>ting open the Caſement for Luxury to fly in upon them.</hi>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:64131:9"/>
+                  <hi>Tertullian</hi> anſwers, <q>Let them who had a mind to it glory the fleſh; but for us, we have no deſigns of glory there, partly as being highly unſuteable to us, who by the Law of God are under a profeſſion of Humility; partly becauſe all glory (to us eſpecially) is vain and ſwelling, how much more that which ariſes from the fleſh, if we muſt glory it is much ſit<g ref="char:EOLhyphen"/>ter for us to follow ſpiritual things, and to pleaſe in the Excellencies of the Spirit, than in thoſe of the Fleſh.</q>
+               </p>
+               <p>
+                  <q>A <hi>Chriſtians</hi> indeed may glory in the fleſh, but it is when for the ſake of Chriſt it is torn in pieces, that the Spirit may be crowned, not that it may prove a Snare to attract the Eyes and Sight of Young mens ungovernable paſſions after it, but when 'tis tormented for the Profeſſion of the <hi>Chriſtian</hi> 
+                     <note place="margin">Ut. Supr. pag. 103.</note> Name, when a woman is found ſtronger than a Man that torments her when ſhe ſuffers Fires, or Croſſes, or wild-Beaſts, that ſhe may receive the Crown;</q> theſe ſays <hi>Cyprian,</hi> are the pretious Jewells of the Fleſh.</p>
+               <p>
+                  <hi>Tertullian</hi> ſays, <q>Beauty being altogether un<g ref="char:EOLhyphen"/>uſeful<note place="margin">Ter. Ibid. ca. 4.</note> to us, ought to be deſpiſed by them that want it, and to be neglected by them that have it a good Woman that is content with her own native Beauty has not that occaſion to betray her into Luſt and Folly, and if ſhe had, it became her not to promote, but hinder it.</q>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That theſe looſe, dellicate Arts came too near the practice of Lewd, Wanton Proſtitutes, who made uſe of thoſe ways and tricks for no other end, but to enveigle men into their embraces.</p>
+               <q>
+                  <p>And <hi>Cyprian</hi> tells them, That no Womans<note place="margin">Ubi Supr. page 105. Vide Ters. de cult. fae<g ref="char:EOLhyphen"/>min. Lib. 1. ca. 4.</note>Grab is made ſo Rich and Gaudy, than theirs whoſe modeſty is moſt, vile and cheap and this he tells us the Scripture ſhadows out by the Woman that was arraved in Purple and Scarlet colour, and decked with Gold and Pretious Stones, and Pearls; having a Golden Cup in her hand full of Abominations and Filthineſs of her Fornication.</p>
+                  <p>But chaſte and modeſt Virgins ſhun the Dreſſes of the De<g ref="char:EOLhyphen"/>ſiled, the Habit of the Shameleſs, the Badges of Steves, the Ornaments of light and wanton Women.</p>
+               </q>
+               <p>
+                  <pb n="18" facs="tcp:64131:10"/>
+                  <q>Whereas all other Creatures (ſays <hi>Clements Alexandrinum</hi>) as Birds and Beaſts are content with their own na<g ref="char:EOLhyphen"/>tural<note place="margin">Paedag. 3. cap. 2. pag. 220.</note> Beauty and colours, Woman only, as if ſhe were inferiour to the Beaſts, thinks herſelf ſo de<g ref="char:EOLhyphen"/>formed that there's need to repair the Defect by external, bought and borrowed Beauty; for while by infinite Arts of curious and coſtly Dreſſes (ſome whereof be there perticularly mentions) they ſeek to inſnare them who (Child like) are apt to admire every thing that is ſtrange and gandy, they ſhew themſelves to be Women that have put off Shame and Modeſty, and whoever (ſays he) calls them ſo ſhall do them no wrong, as carrying the Signs, Repreſentations of it in their very Faces.</q>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> The Antient <hi>Chriſtians</hi> mainly inſiſted upon this,<note place="margin">Ap. lib. 1. c. 8. p. 823.</note> 
+                  <q>That thoſe Arts were Injurious to God, and a Diſ<g ref="char:EOLhyphen"/>paragement to his Workmanſhip. We are not, ſays <hi>Tertullian,</hi> to ſeek after neatneſs and ſinery be<g ref="char:EOLhyphen"/>yond what is ſimple and ſufficient, and what pleaſes God, againſt whom they offend who are not ſatiſfied with his Workmanſhip.</q>
+               </p>
+               <p>
+                  <hi>Cyprian</hi> proſecutes the ſame Argument with a great deal of zeal and ſharpneſs, and faith, <q>Thoſe additional arts<note place="margin">De Decipl. &amp; Hab. urig. p. 166.</note>of beauty are a bold and ſacriligious attempt, and an high contempt of God; that it is to reform what God hath formed, and to alter and change his Work, and (as much as they can) to diſfigure that perſon which God hath created after his own Image and Likeneſs, and that ſuch a one has cauſe to fear, that when the Day of Reſur<g ref="char:EOLhyphen"/>rection comes he that made them ſhould not know them, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Theodoret</hi> reports of his own Mother, <q>That in<note place="margin">Hiſt. Relig. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a. 9. in vit. Pet. page. 343.</note>her younger Years having a Blemiſh in one of her Eyes, which had baſſled the Arts of Phyſtick; ſhe was at length perſwaded to make her Addreſs to one <hi>Peter,</hi> famous for the gift of Miracles, who lived near <hi>Antivoh,</hi> a very ſerve and aſcetick courſe of Life, and to render herſelf (as ſhe thought) the more conſiderable in his Eye, ſhe put on all her bravery, her richeſt Robes, her Pendants and Chains of Pearl, and whatſoever could render her
+<pb n="19" facs="tcp:64131:10"/>
+ſine and ſplendid, no ſooner was ſhe conſe unto him; but the ſerve and uncomplimental man at firſt ſight bluntly entertain'd her with this diſcourſe; Tell me Daughter, ſuppoſe an excel<g ref="char:EOLhyphen"/>lent Artiſt, having drawn a Picture according to all the Laws and Rules of Art, ſhould expoſe and hang it forth to view; and another rude and unskilfull bungler coming by, ſhould find fault with this excellent piece, and attempt to men But, and draw the Eye brows to a larger length, and add more colour to the Cheeks, would not the true Author be (and that juſtly) Angry, that his Art was diſparaged and undervallued, and needleſs additions made to the piece by an unskilfull Hand: And ſo it is here; Can we think that the great Artificer of the World, the maker and former of our Nature is not juſtly An<g ref="char:EOLhyphen"/>gry, when you accuſe his incomparable Wiſdom and Perfe<g ref="char:EOLhyphen"/>ction of unskilfulneſs, and want of knowledge; for you would not add your Reds, Whites and Blacks, did you not think your Bodies needed theſe additions; and while you think ſo, you condemn your Creator for Weakneſs and Ignorance.</q>
+               </p>
+               <p>Corrupt not therefore the Image of God, nor attempt to add what he in infinite Wiſdom thought not ſit to give; ſtudy not to invent this adulterate Beauty, which even to haſte perſons often proves a cauſe of ruin by becoming a ſnare to them who look upon it.</p>
+               <q>The Beauty of the Body, faith <hi>Clemens</hi> of <hi>A<g ref="char:EOLhyphen"/>lexandria</hi>
+                  <note place="margin">Padag. lib. 3. ca. 11. p. 248.</note> conſiſts in a good Complexion, and an apt Semitary and proportion of its Parts; but the greateſt Beauty is that of the Soul, when it is adorned with the holy Script and the excellent Graces of it (viz.) Juſtice, Prudence, Fortitude, Temperance, and the love of Goodneſs and Modeſty, which is the<note place="margin">lbid. ca. 2. p. 216.</note> brighteſt and moſt lovely Ornament the Eye of man can behold.</q>
+               <p>He willingly compares thoſe Women that curiouſly trick and trim up the Body, but are negligent of the Soul within, to the <hi>Al<g ref="char:EOLhyphen"/>gyptian</hi> Temples, <q>Look upon their outſide &amp; they are moſt Splen<g ref="char:EOLhyphen"/>did and Magnificent, incompaſſed with dellicate Groves, built with large Enteries, and ſtately Portica's ſurrounded with fever
+<pb n="20" facs="tcp:64131:11"/>
+ſorts of Pillars; the Walls both within and without ſet off with Stones of ſeveral Countries, curiouſly Wrought and Carved; the Temples themſelves garniſhed with Gold, Silver, Amber, and all the glittering and pretious Stones that <hi>India</hi> and <hi>Ethiopia</hi> can afford; but enter within them and enquire for the Deity that is there Worſhipped, and you ſhall be gravely ſhew'd behind a Curtain a <hi>Cat,</hi> or a <hi>Crocodile,</hi> or a <hi>Ser<g ref="char:EOLhyphen"/>pent</hi> of the Country, or ſome ſuch ill-favoured Beaſt, which is the <hi>Reſidentiary</hi> or <hi>Tutelar Deity</hi> of that place. And juſt ſuch, (ſays he) 'do thoſe Women ſeem to me, who trim themſelves with Gold, and are taken up with Curling their Hair, Paint<g ref="char:EOLhyphen"/>ing their Faces, and Blacking their Eyes, Colouring their Locks, and other undue Arts of Softneſ, &amp; Luxury, beautifying the Rail and Fence; but if a Man look within the Vail and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>vering of the Temple what is under all thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gayneſs and Finery, he ſhall be ſo far from meeting with what is truly Beautifull, that it will Excite his Horror and Averſation; for he ſhall not find the Image of God dwelling there, as might reaſonably be expected; but inſtead thereof ſome filthy and treacherous Beaſt, that poſſeſſes the moſt inward Receſſes of the Soul, a luſtful Ape, or the crafty Serpent that devours the underſtanding of a Man, and turns his Soul into a Neſt or Den full of moſt deadly Venom, and the Poyſon of his Error and Deceit.</q>
+               </p>
+               <p>The Account <hi>Gregory</hi> gives of his Siſter <hi>Gorgonia,</hi> 
+                  <q>That ſhe uſed no Gold to make her fine, no yellow Hair ordered into Knots and Curles, nor any other Tricks to make her Head a <hi>Scene</hi> and <hi>Pageantry,</hi> no looſe and tranſparent Garments; no Luſture of Stones and Jewels enlightning the Air round about and reflecting ſplendor upon them that wear them; no devices, and arts of painting; no affectation of Beauty that may be eaſily bought; no Counter working Gods Creation, Diſho<g ref="char:EOLhyphen"/>nouring<g ref="char:punc">▪</g> Reproaching and Covering his Workmanſhip with Falſe and Deceitful colours, ſuffering a Spurious and Superſti<g ref="char:EOLhyphen"/>tious Beauty to ſteal away that natural Image which ought to be kept intire to God, and the future ſtate. The<note place="margin">
+                        <hi>Prim. Chri. part 2. pag.</hi> 65, 6<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> only Redneſs that pleaſed her, was that which was the Fruit of Bluſhing and Modeſty; no other Whiteneſs but what came thorow faſtning and ab<g ref="char:EOLhyphen"/>ſtenence,
+<pb n="21" facs="tcp:64131:11"/>
+leaving <hi>Fucuſes,</hi> and Painting, and Living Pictures, and Fading Beauty, to ſuch as belong to Plays and <hi>Theatres,</hi> and to ſuch for whom to bluſh and be aſhamed, is a Shame and Diſgrace, &amp;c.</q>
+               </p>
+               <p>Conſider of the foregoing Lines, all Women who now have the Profeſſion of <hi>Chriſtianity;</hi> for here are ſet down and clearly demonſtrated the Marks and Fruits of Chaſte and Modeſt Ma<g ref="char:EOLhyphen"/>trons, and Women profeſſing godlineſs with Good Works; what Adorning they loved and delighted to be attired withal, in which God delighted in them. And alſo the Marks and Cha<g ref="char:EOLhyphen"/>racters of lewd and wanton Proſtitutes, who frequented Plays, Shows and <hi>Theatres;</hi> their attire being moſt Rich and Coſtly, who Modeſty was Vile and Cheap; Is it not ſo at this day? Oh! conſider and lay theſe things to Heart; for he that took Ven<g ref="char:EOLhyphen"/>geance for theſe things in Antient Days, is the ſame at this day, whoſe Determinate Purpoſe none can change: It is not a Pro<g ref="char:EOLhyphen"/>feſſion of the <hi>Chriſtian</hi> Doctrine that will ſtand you inſtead, while the Fruits of <hi>Heatheniſm</hi> and <hi>Atheiſm</hi> is brought forth by you: If you ſay as the looſe Women in <hi>Cyprian's</hi> days ſaid, <hi>That you have great Eſtates, and therefore ought to live like your ſelves,</hi> &amp;c. He ſhews you how you may beſtow them, to reap the Fruit of them another day. But the true Chriſtians did then and do now charge all Women how Rich ſoever, to cloath themſelves in <hi>modeſt Apparel, not with Gold, nor Pearl, nor Broi<g ref="char:EOLhyphen"/>dred Hair, or Coſtly Apparel,</hi> 1 Tim. 2. 9. 1 Pet. 3. 3.</p>
+               <p>
+                  <hi>Obj.</hi> But it is ſaid, <hi>That Pride lies in the Heart;</hi> which is true, for if it were not in the Heart it would not be on the Back; for as no Branch can grow without a Body and Root, ſo cannot Pride and Luxury ſpread over the Body, till firſt 'tis rooted in the Heart; therefore by the Fruits which you bring forth you are all known, both Male and Female, and accordingly muſt reap a Reward, who from the Righteous Judge of Heaven and Earth will cauſe all Wicked men and women, of both profeſſed <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> and <hi>Heathens</hi> to be bundled together, and in the great Day of Divine Vengeance ſhall caſt them in utter Darkneſs, where is weeping forever.</p>
+               <p>
+                  <hi>Tertullian</hi> his Counſel to the Women of his time, was, <q>To
+<pb n="22" facs="tcp:64131:12"/>
+cloath themſelves with the Silk of Honeſty, the<note place="margin">De cult. foemin. lib. 2. cap. 13. ad find.</note> fine Veſtures of Piety, the Purple of Modeſty; and being thus beautified and adorned, ſayes he, God himſelf will be your Lover.</q>
+               </p>
+               <p>Among the many Temptations that beſiege the L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe of man and woman, there is ſcarce any, into which he is more eaiſily betrayed, than into a vicious curioſity about Meats and Drinks, the Exceſs of an unruly Appetite.</p>
+               <p>Therefore the An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient <hi>Chriſtians</hi> exhorted and warned the Saints and Believers in their day, to avoid dellicate Diſhes, and the Banquets of the Prophane, the Looſe and Waton Aſſemblies of the Unchaſte.</p>
+               <p>St. <hi>Bazill</hi> ſaith, <q>That mans Food and Diet<note place="margin">
+                        <hi>Reg. fuſ. Diſput. in<g ref="char:EOLhyphen"/>terog. 19. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>om. 2 pag.</hi> 560.</note> ought for the main to be regulated by the general end of it, which is not wanonly to pleaſe the Pal<g ref="char:EOLhyphen"/>late, but to maintain Health and to repair the weak<g ref="char:EOLhyphen"/>neſs and decay of Nature.</q>
+               </p>
+               <p>
+                  <hi>Juſtin Martyr</hi> tells his Friends, <q>That they ought to uſe ſuch Food, not as may gratifie their Eaſe and<note place="margin">Epiſt. ad <hi>Zen. &amp; Seren</hi> page 50<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> Delliiacy, but ſuch as make their Lives uſeful and ſerviceable. Wine (ſayes he) is neither to be drunk daily to Exceſs, nor to be uſed as common<g ref="char:EOLhyphen"/>ly as Water; both indeed are God's Creatures:<note place="margin">
+                        <hi>Ibid. p.</hi> 512.</note> But Water neceſſary, Wine given only to help and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elieve the Body, which Immoderately taken, Chains up the Tongue, ſparkles Fire out of the Eyes, and makes the Legs tremble, and the Underſtanding being gone, readily takes of its Cup of deadly Poyſon, and contrary to Gods Ordination, it turns the peaceable Inſtrument of Husbandry into Swords and Spears.</q>
+               </p>
+               <p>
+                  <hi>Clemens Alexandrinus</hi> Diſcourſes at large, repreſenting the great Evils and Inconveniencies of Gluttony and Exceſs, <q>That it Waſtes the Eſtate, Ruins the Body by imparing its<note place="margin">
+                        <g ref="char:V">Ʋ</g>t ſup<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. cap. 1, 2. per. tot.</note> Health, Debauching the Stomach, Deflouring its Taſte, begetting an ill Habitude and Temper, and ſow it with the Seeds of all Diſeaſes, it dulls the Mind, and r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nders it unapt and ſlugguiſh, and prepares it for the entertainment of Vice and Wickedneſs.</q>
+               </p>
+               <p>
+                  <pb n="23" facs="tcp:64131:12"/>St. <hi>Jorom</hi> Counſels <hi>Laeta</hi> about the Education of<note place="margin">Ad <hi>Laet.</hi> tom. 1. pag. 57.</note> her Daughter, <q>That her Diet ſhould be thin and mean, and that ſhe ſhould never eat more than ſhe might ariſe with ſome appetite.</q>
+               </p>
+               <p>
+                  <q>When they were at any time invited to publick Solemnities, as Marriages or the like, the Prudence of the<note place="margin">Con. <hi>Laod</hi> can. 53.</note> Church thought fit to lay reſtraints upon them, not only to forbid them of light and ludicrous actions, as Leaping or Dancing, but that they ſhould dine and ſup gravely and modeſtly, as becomes Chriſtians.</q>
+               </p>
+               <p>When <hi>Julian</hi> the Emperor to raiſe Money for<note place="margin">
+                     <hi>Baſil.</hi> Epiſt. 208. tom. 3. pag. 225. Conſer. <hi>Socrat.</hi> lib. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. cap. 13. pag. 185 Prim. Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. part 2. pag. 74.</note> his Wars, began to ſqueeze and oppreſs the Chri<g ref="char:EOLhyphen"/>ſtians, he ſent among others to St. <hi>Bazill,</hi> who had formerly been his Fellow Student at <hi>Athens, for One Thouſand Pounds:</hi> The Anſwer he ſends him was, <q>That it could not be expected there, where he had not ſo much Proviſion before hand as would ſerve for one day. That there was no Arts of Cookery at his Houſe, no Knives ſtained with the Blood of ſlaughtered Proviſion; his greateſt dain<g ref="char:EOLhyphen"/>ties were a few Pot-herbs, and a piece of Bread, and a little ſour vapped Wine.</q>
+               </p>
+               <p>
+                  <hi>Chryſoſtom</hi> commends <hi>Olympias,</hi> not more for the modeſty <q>of her Garb than the meanneſs and ſobriety of her<note place="margin">Epiſt. 2. ad <hi>Olymp.</hi> tom. 4. pag. 616.</note> Diet, to which ſhe had ſo uſed her ſelf, that ſhe had got the perfect maſtery over all undue appetites &amp; inclinations, and had not only bridled the Horſe, but tamed and reduc'd him to an entire ſubjection, and taught her Stomach to receive only ſuch Meat and Drink, as was enough to keep her alive and in Health. Nay, our Feaſts (as he ſays, in <hi>Minutius Faelix</hi>) are not only Chaſte but Sober, we indulge not our ſelves with Banquets, nor make our Feaſts with Wine, but temperour Chearfulneſs with Gra<g ref="char:EOLhyphen"/>vity and Seriouſneſs, and indeed their often Watchings and Fa<g ref="char:EOLhyphen"/>ſting, and their conſtant Obſervance of the ſtricteſt parts of De<g ref="char:EOLhyphen"/>votion, ſufficiently ſhew'd how little they pomper'd or indulg'd the fleſh, the ſigns whereof they every where carried in their
+<pb n="24" facs="tcp:64131:13"/>
+very Faces, and this was ſo notorious, that<note place="margin">
+                        <hi>Pallidi tre<g ref="char:EOLhyphen"/>pidi apud eundem, pag.</hi> 10.</note> their very Enemies reproached them with their trembling joynts, and their pale ghaſtly looks.</q> And <hi>Lucian</hi> giving an account of the <hi>Chriſtian</hi> Aſſemblies into which he tells us <hi>Critias</hi> was<note place="margin">Philopat. tom. 2. <hi>P.</hi> 1007.</note> brought to be made Proſelite, deſcribe them to a company of Perſons with their Heads hang<g ref="char:EOLhyphen"/>ing down and Pale Faces.</p>
+               <p>How often have you, who would be called <hi>Chriſtians Sorca<g ref="char:EOLhyphen"/>ſtically</hi> or Tauntingly deſcribed the true <hi>Chriſtian-Quakers</hi> after this manner, <hi>To be a company of Perſons with their Heads hang<g ref="char:EOLhyphen"/>ing down, and ghaſtly Looks,</hi> and not fit for your company, whoſe Eyes ſtand out with Fatneſs, and your Bodies puſt up like over<g ref="char:EOLhyphen"/>ſed Horſes, your chiefeſt God being your Bellies, and your greateſt Glory in that which ought to be your greateſt Shame, and your Minds and Hearts are moſtly taken up with Earthly things, fairing deliciouſly every Day, like the Glutton ſpoken of, <hi>Luke</hi> 16. 19, 20. and unleſs God in infinite Mercy give you Repentance, your end will be Deſtruction: Oh! w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile you have time let your Laughter be turned into Mourning, your Feaſting into Faſting, and your Joy into Heavineſs; for the great and terrible Day of God Almighty cometh as a Thief in the Night, and wo to you who are found Eating and Drink<g ref="char:EOLhyphen"/>ing with the drunken, and Beating, Mocking and Dcriding your fellow Creatures, who are made to Sigh and Mourn for all the Abominations which are done and committed in the Land, which threaten Deſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lation and Deſtruction unto it, ſo that at the terrible ſtroke of divine Vengeance, your Faces (which now are full and fat) ſhall gather Paleneſs, and Trembling ſhall take hold of you, &amp; fear on every ſide, which ſhall bow your now high and loſty Looks; then ſhall the Cup of Trembling be taken out of their Hands, whom you have Oppreſſed, Scoffed and Derided, and ſhall be given to you, with which (except ye Re<g ref="char:EOLhyphen"/>pent) ye ſhall be drunk, and ſtumble and fall, and never riſe again.</p>
+               <p>
+                  <q>We are, ſaith <hi>Octavius,</hi> Chaſte in our<note place="margin">
+                        <hi>Min. Foel.</hi> p. 26.</note> Speech, and chaſter in our Bodies; and very many of us (though we do not boaſt on't) do inviolably preſerve a perpetual Virginity.</q>
+               </p>
+               <p>
+                  <pb n="25" facs="tcp:64131:13"/>But now you who would bear the name of <hi>Chriſtians</hi> (though you take Wives) yet many of you are not content with them, but run into Whoredom and Uncleanneſs, by which you corrupt and de<g ref="char:EOLhyphen"/>ſtroy your Bodies, and bring your Souls into the horrible Pit of endleſs Torment, where all Whoremongers and Adulterers (whe<g ref="char:EOLhyphen"/>ther called <hi>Chriſtians</hi> or <hi>Heathens</hi>) ſhall have their part and lot.</p>
+               <p>The Primitive <hi>Chriſtians</hi> were zealouſly careful to ſhun all ap<g ref="char:EOLhyphen"/>pearances and occaſions of Lightneſs and Immodeſty, and whatever might tend to inveigle the Sence, and to debauch their Minds and Manners; nay, whatever might give ſuſpition of Wantonneſs and Inconveniency. They declined, as much as might be, going to all publick Meetings, ſuch as Feaſts, Playes, Shews, &amp;c.</p>
+               <p>There <hi>Cyprian</hi> ſeverely chides with ſome Virgins,<note place="margin">De Diſcip. &amp; hab. Vir. <hi>p.</hi> 167.</note> 
+                  <q>For being preſent at Weddings, where they laughed freely, and could not but hear looſe Diſcourſes, ſee uncomely Carriages, and ſeed upon Luxurious Diſhes, all which muſt needs not only kindle, but add Fuel to the Fire, and fill their minds with undecent thoughts and deſires.</q> And as they were carefull not to give offence to others, ſo they were not willing themſelves to come within the Shadow: they ſtood at a diſtance from whatever was offenſive either to their Eyes or Ears; their Ears they ſtopt againſt all looſe idle Songs, and all filthy abſcene Diſcourſe; their Eyes they ſhut againſt all uncomely<note place="margin">
+                     <hi>Admonit. ad Grae. pa. 40. Prim. Chriſt. tom. 2. p.</hi> 98.</note> objects, all wanton and Laſcivious Pictures, as <hi>Cle<g ref="char:EOLhyphen"/>mens Alexandrinus</hi> expreſly tells us, not doing any thing that ſeemed but to carry an ill Colour with it.</p>
+               <p>When ever any was found guilty of the leaſt Uncleanneſs, it was looked upon and bewailed as a very hainous Sin, and a great diſhonour to the <hi>Chriſtian</hi> Name.</p>
+               <p>
+                  <q>What is it that I hear, ſays <hi>Cyprian?</hi> How deteſtable ſhould it be to you, what with the greateſt grief and affliction of my mind I have underſtood, that there are ſome amongſt you who have de<g ref="char:EOLhyphen"/>filed your Bodies, the Temples of God (even after they were ſan<g ref="char:EOLhyphen"/>ctified) with filthy and infamous embraces, promiſcuouſly uſing the Beds and Lodgings of the Women, when although they ſhould be free from actual Adultry, yet even in this 'twould be a fault o
+<pb n="26" facs="tcp:64131:14"/>
+mighty aggravation, that by their ſcandalous Examples others might be ſeduced into ruin.</q>
+               </p>
+               <p>
+                  <hi>Tertullian</hi> uſes this Plea in the cloſe of his Apollogy to the <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> in the behalf of the great Chaſtity amongſt the <hi>Chriſtians</hi> at that day. <q>Condemn us, Crucifie and Torment us, your Cruel<g ref="char:EOLhyphen"/>ty and Injuſtice is the evidence of our Innocency, and therefore God ſuffereth this to come upon us; For while you chuſe rather to condemn a Woman that is a <hi>Chriſtian</hi> to the Stews, then to the Lyons, you plainly confeſs that the violation of Chaſtity is accounted by us a heavier Penalty, then any Puniſhment or kind of Death you can inflict upon us.</q>
+               </p>
+               <p>Conſider this ye Luſtful wanton Ones, who are alluring one ano<g ref="char:EOLhyphen"/>ther through your unſatiable Luſts, into acts of Uncleanneſs: Who is your Example for theſe things, the Primitive Chriſtians or the unclean Heathen?</p>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Novalty</hi> that was charged upon the Primitive <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Religion, and the Sufferings they underwent for the Vindication of it.</head>
+               <p>
+                  <hi>TErtullian</hi> told the Enemies of the <hi>Chriſtians</hi> in the Primitive Times, <q>That by every Act of cruelty againſt them they did but tempt others to come over to their Party, and the<note place="margin">
+                        <hi>Apol. cap. ult. pag.</hi> 40.</note> oftener they were mowed down, the faſter they ſprung up again, the Blood of the <hi>Chriſtians</hi> making the Churches ſoil more fat and fertil.</q>
+               </p>
+               <p>
+                  <q>
+                     <hi>Caecilius</hi> the <hi>Heathen</hi> in <hi>Minutius Faelix</hi> Accuſes the<note place="margin">
+                        <hi>Arnob. lib. 1. pag. 7. Minu Fa. p.</hi> 7.</note> 
+                     <hi>Chriſtians</hi> for a deſperate undone and unlawful faction.</q>
+               </p>
+               <p>When <hi>Paul</hi> preached <hi>Athens</hi> we find the firſt thing charged upon him, <hi>That he was a ſetter forth of ſtrange Gods, becauſe he preached to them Jeſus and the Reſurrection,</hi> Acts 17. 18. <hi>Arnobius</hi> ſaid, <q>You are went to change our Religion as Noval,
+<pb n="27" facs="tcp:64131:14"/>
+ſtarted up not many days ago, and that you ought<note place="margin">
+                        <hi>Lib. 2. pag.</hi> 40.</note> not to deſert your antient way, nor the Religion of your Country.</q>
+               </p>
+               <p>And <hi>Euſebius</hi> ſaith, <q>The <hi>Heathen</hi> were wont to rea<g ref="char:EOLhyphen"/>ſon<note place="margin">Praepar. E<g ref="char:EOLhyphen"/>vang. lib. 1. c. 2. p. 5.</note> thus, <hi>What ſtrange Profeſſion of Religion is this? What new way of Life,</hi> &amp;c?</q>
+               </p>
+               <p>
+                  <hi>Julian</hi> the Emperor writing to the People of <hi>Alex<g ref="char:EOLhyphen"/>andria,</hi>
+                  <note place="margin">
+                     <hi>Epiſt. 51. oper. Jul. part 2. pag.</hi> 208.</note> concerning the <hi>Galilaeans</hi> (for ſo he was wont in ſeorn to call the <hi>Chriſtians</hi>) <q>That he wondered that any of them durſt dwell among them, or that they would ſuffer thoſe Deſpiſers of the Religion of their Country, to have any place among them.</q>
+               </p>
+               <p>
+                  <hi>Lactantius</hi> ſpeaking of the <hi>Heathens,</hi> 
+                  <q>They go on, ſays he, moſt pernitiouſly to maintain and defend the Religion deriv'd down to them from their Anceſtors; not ſo much conſidering what they are, as concluding them to be right and good, becauſe the Antients con<g ref="char:EOLhyphen"/>veyed them to them, &amp;c. Upon theſe the <hi>Gentiles</hi> bore ſo hard upon <hi>Chriſtianity,</hi> beholding it as a <hi>Muſhroom</hi> Sect, ſprung up of a ſuddain, and an incroaching Inmate undermining the eſtabliſh't Religion of the World.</q>
+               </p>
+               <p>Oh! ye pretended <hi>Chriſtians,</hi> how often have you charged the true <hi>Chriſtians</hi> in ſcorn by you nick-named <hi>Quakers,</hi> who in Doctrine and Diſcipline do follow the ſteps of the Antient &amp; true <hi>Chriſtians,</hi> with a Noval ſtart-up Religion, becauſe the hope of our Glory, which is Chriſt manifeſted in us, hath been a Myſtery hid from Ages and Ge<g ref="char:EOLhyphen"/>nerations, even from your Fathers, Grandfathers, and Great-grand<g ref="char:EOLhyphen"/>fathers, for many Ages; ſo that the Religion which you uphold, and have, and do ſeek to eſtabliſh, hath been and is that only which hath been deriv'd from your Anceſtors, by Tradition (<hi>Heathen</hi>-like) not ſo much conſidering whether they are right or good, as looking upon it to be Antient, and lived in and practiſed by your Fore-fa<g ref="char:EOLhyphen"/>thers, who lived in the Dark Night of Apoſtacy and Degeneration from the Life, Marrow and Quiteſence of true <hi>Chriſtianity.</hi>
+               </p>
+               <p>
+                  <hi>Clemens Alexandrinus</hi> ſaid, <q>The <hi>Heathen</hi> told them that<note place="margin">
+                        <hi>Admo. ad Gent. p.</hi> 57.</note> they might not ſubvert the cuſtoms received from their Anceſtors: But if ſo, why then, ſaith he, are we are not con<g ref="char:EOLhyphen"/>tent
+<pb n="28" facs="tcp:64131:15"/>
+without any other Food than our Mothers Milk, to which we were accuſtomed when we firſt came into the World? Why do we increaſe or impare our Eſtates, and not rather keep them at the ſame pitch, juſt as we received them from our An<g ref="char:EOLhyphen"/>ceſtors.</q>
+               </p>
+               <p>
+                  <hi>Lactantius</hi> ſaith to the <hi>Heathen,</hi> 
+                  <q>What wilt thou do? wilt thou follow Reaſon or thy Anceſtors? <hi>Lact. loco ſupralaudato.</hi>
+                  </q>
+               </p>
+               <p>St. <hi>Ambros</hi> ſaid, <q>That old Age has true cauſe<note place="margin">
+                        <hi>Amb.</hi> Epiſt. 2. contr. <hi>ſymach.</hi> inter Epiſt. <hi>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mach.</hi> p. 562.</note> to bluſh, that is a ſhamed to reform; and that it is not the multitude of Years, but the goodneſs of manners that makes gray Hairs worthy of Praiſe and Honour: No Age is too late to learn, nor is it a ſhame to grow better</q>
+               </p>
+               <p>
+                  <hi>Ambros</hi> argues thus with the Enemies of the Chriſtians, <q>Our way of Religion you ſay is new, and yours antient; does this either hurt our Cauſe or help yours? If ours be new, 'twill in time be<g ref="char:EOLhyphen"/>come old; is yours old? there was a time when 'twas new, the goodneſs and authority of Religion is not to be valued by the length of time, but by the Excellency of its Worſhip, &amp;c.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Things charged upon the Antient <hi>Chriſtians,</hi> reſpecting their outward Condition.</head>
+               <p>THe Primitive Chriſtians were charg'd by their Emenies to be a very mean and inconſiderable ſort of men, and that they were an Uſeleſs and Unſerviceable People; nay, Pernitious and Miſ<g ref="char:EOLhyphen"/>chievous to the World; and were look't upon as the loweſt and meaneſt rank of men. Perſons neither conſiderable<note place="margin">
+                     <hi>Adv. gent. lib. 3. pag.</hi> 49.</note> for their parts and learning, nor for their Eſtates and Quality: As <hi>Arnobius</hi> tells them, <q>You ſcorn and ſpit us out, as Rude and Simple, and think that the Treaſury of all Divine and Excellent Knowledge is only open to your ſelves.</q>
+               </p>
+               <p>
+                  <pb n="231" facs="tcp:64131:15"/>Thus <hi>Celſus</hi> objected, <q>that among the Chriſtians no<note place="margin">
+                        <hi>Orig.</hi> cont. <hi>Celſ.</hi> lib. 3. pag. 137.</note> wiſe men were admitted to the Myſteries of their Re<g ref="char:EOLhyphen"/>ligion; ſaying, that ſuch as are void of reaſon, ſlaves, ſilly Women, and little Children are fit D ſciples for the God they Worſhip. And he goes on and ſays,<note place="margin">
+                        <hi>Ibid. p.</hi> 141.</note> That Weavers, Taylors, Fullers, and the moſt Ru<g ref="char:EOLhyphen"/>ſtick and Illiterate Fellows at Home, when before their Elders and Betters, are as mute as Fiſhes, and when they can<note place="margin">
+                        <hi>Page</hi> 144.</note> get a few Children and ſilly Women together, then who ſo Wiſe and Learned, and ſo full of talk and ſo able to inſtruct as they!</q>
+               </p>
+               <p>
+                  <q>See (ſays the Heathen, in <hi>Minutius Faelix,</hi> to the<note place="margin">
+                        <hi>Page</hi> 9.</note> Chriſtians) the moſt &amp; beſt of all your Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y are a Poor Beggarly, Hunger ſtarv'd Generation, that have<note place="margin">
+                        <hi>Arnob.</hi> adv. Gent. lib. 2. prop. fin <hi>Lactant</hi> lib. 5. De Inſtit. cap. 22.</note> neither Riches nor Reputation to bear them out. But this was not all, the Chriſtians were charged to be a very uſeleſs and unſerv ceable People, that contribu<g ref="char:EOLhyphen"/>ted nothing to the happineſs of the Common-Wealth; nay, as Deſtructive and Pernitious to Humane So<g ref="char:EOLhyphen"/>ciety, and the procuring Cauſes of all thoſe Miſ<g ref="char:EOLhyphen"/>chieſs that befell the World.</q>
+               </p>
+               <p>Hear what <hi>Tertullian</hi> ſays in the Caſe, <q>Certainly if any have cauſe (ſays he) truly to complain of our being un<g ref="char:EOLhyphen"/>profitable,<note place="margin">Ap. cap. 42. <hi>p.</hi> 33. Ibid. cap. 43.</note> they are <hi>Bawds, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>andors, Pimps, Hectors</hi> and <hi>Ruſſians, Sellers</hi> of <hi>Poyſon, South-ſayers, Wizards</hi> and <hi>Aſtrologers,</hi> &amp;c. and to be unſerviceable to theſe is the greateſt ſerviceableneſs.</q>
+               </p>
+               <p>Oh! how parallel are the ſayings of the antient <hi>Heathen Gentiles,</hi> with yours now who are call'd Chriſtians! how often have you ſlight<g ref="char:EOLhyphen"/>ed and reproached us <hi>as a mean contemptible &amp; poor People, Rude in Speech &amp; Behaviour, Ruſtick &amp; Illiterate Fellows, a poor <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eggarly Gene<g ref="char:EOLhyphen"/>ration, and very uſeleſs and unſerviceable to the Government, and de<g ref="char:EOLhyphen"/>ſtructive to humane Society;</hi> without conſidering that in all Genera<g ref="char:EOLhyphen"/>tions, <hi>God choſe the weak and fooliſh things of the World to confound the Wiſe,</hi> &amp;c. 1 <hi>Cor.</hi> 4. 25, 26, 27, 28, 29. Even ſo it is at this day. And we are uſeleſs and unſerviceable to none, but to ſuch, as old
+<pb n="30" facs="tcp:64131:16"/>
+                  <hi>Tertullian</hi> reckon'd up, as is inſtanced above, and to be uſeleſs and unſerviceable is the account of ſuch in the greateſt ſerviceableneſs.</p>
+            </div>
+            <div type="part">
+               <head>How the Antient <hi>Chriſtians</hi> helped the Emperours in their Wars.</head>
+               <p>WHen <hi>Celſus</hi> preſſed the <hi>Chriſtians</hi> to undergo publick Offices, and to help the Emperor in his Wars. <hi>Origen</hi> anſwers that they did, though by divine,<note place="margin">Adv. <hi>Celſ.</hi> lib. 8. pag. 426, 427.</note> not humane help, <q>Above all men (ſays he) we fight for the Emperor, while we train up our ſelves in Ex<g ref="char:EOLhyphen"/>erciſes of Piety, and that they really ſought to re<g ref="char:EOLhyphen"/>claim men from Vice and Sin, to a good and vertuous Life; but ſaid, that wicked men were the Peſts &amp; Plagues of humane Society, that taint and infect others by their bad Examples and Perſwaſions, and intail Vengeance upon the places of their Reſidence. Whilſt good Men ingage the Favour and Bleſſing of Heaven, who both by their Counſels and Examples bring over o<g ref="char:EOLhyphen"/>thers<note place="margin">Adv. <hi>Celſ.</hi> lib. 1. pa. 9.</note> to Sobriety and Vertue, whereby they eſtabliſh and ſettle the Foundation of Government, and the happineſs of civil Life, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Origen</hi> ſaith, <q>Doth <hi>Celſus</hi> call upon us to bear Offices for the good of our Country? Let him know that the Country is much more beholding to <hi>Chriſtians</hi> then to the reſt of Men, while they teach them Piety towards God, the tutelar Guardian of the Country.</q>
+               </p>
+               <p>
+                  <hi>Clement</hi> to the <hi>Corinthians</hi> ſaid, <q>Who did ever<note place="margin">
+                        <hi>Clem.</hi> Ep. ad. <hi>Corinth.</hi> pag. 2, 4.</note> dwell amongſt you, that did not wonder at your ſo<g ref="char:EOLhyphen"/>ber &amp; moderate Piety in Chriſt, being adorned with a moſt virtuous &amp; venerable Converſation, &amp; having the Laws and Commands of God written upon the Tables of your Hearts? They placed Religion not in talking finely, but living well.</q>
+               </p>
+               <p>
+                  <q>Amongſt us (ſaith <hi>Athenagorus</hi>) the meaneſt and moſt Mechan<g ref="char:EOLhyphen"/>nick
+<pb n="31" facs="tcp:64131:16"/>
+Perſons and old Women, although not able to<note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g. pro. Chriſt. p.</hi> 12</note> diſcourſe and diſpute for the uſefulneſs of their Pro<g ref="char:EOLhyphen"/>feſſion, do yet demonſtrate it in their Lives and Actions, They do not indeed critically weigh their words, &amp; recite eloquent Orations, but they manifeſt honeſt and virtuous Actions; while being buffetted they ſtrike not again, nor Sue them at Law who ſpoil and plunder them.</q>
+               </p>
+               <p>Now to Gods pure and living Witneſs in all Conſciences, who ſhall read or peruſe the Lines aforegoing, I leave them to be tryed and judged, and alſo to manifeſt who are the true <hi>Chriſtians</hi> at this Day, and of right ought to claim that honourable Name and Title, whether thoſe who Traditionally have received it from their An<g ref="char:EOLhyphen"/>ceſtors, while they are Strangers and Enemies to the Croſs of Chriſt, which crucifies to the World its ways and works of Dark<g ref="char:EOLhyphen"/>neſs and Iniquity? or them who in Life, Doctrine and Practice live according to the Diſcipline of the Goſpel; who though they are in the World, yet are not of the World; and though walking upon the Earth, yet their Converſation is in Heaven, having the Laws and Commandments of God written upon the Tables of their Hearts; theſe are they who are <hi>Chriſtians</hi> indeed, whoſe praiſe is not of men, but of God.</p>
+               <closer>
+                  <dateline>
+                     <hi>Gatton-place</hi> in <hi>Surrey,</hi> 
+                     <date>the 28th of the 9th Mo<g ref="char:EOLhyphen"/>neth, 1678.</date>
+                  </dateline>
+                  <signed>AMBROS RIGGE.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:64131:17"/>
+            <pb facs="tcp:64131:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
